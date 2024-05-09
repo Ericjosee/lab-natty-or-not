@@ -8,7 +8,7 @@ Este projeto explora a interseção entre arte e tecnologia, utilizando modelos 
 - InvideoAI para criação de um Video baseado em descrições textuais
 
 ## 🧐 Processo de Criação
-O processo começou com a definição de temas e estilos desejados. Nesse caso Falarei das maiores invenções já criadas e criarei um video sobre isso. Em seguida, utilizei o ChatGPT para desenvolver conceitos e descrições detalhadas sobre o assunto, e então criei com a assistência do chatgpt um transcript para o video. Por fim, utilizei a plataforma InvideoAI para a edição e produção do video. O video tem um contexto relacionado tecnológico variado e está disponivel nesse link = https://ai.invideo.io/watch/6sJf6fv2CZu
+O processo começou com a definição de temas e estilos desejados. Nesse caso Falarei das maiores invenções já criadas e criarei um video sobre isso. Em seguida, utilizei o ChatGPT para desenvolver conceitos e descrições detalhadas sobre o assunto, e então criei com a assistência do chatgpt um transcript para o video. Por fim, utilizei a plataforma InvideoAI para a edição e produção do video. O video tem um contexto relacionado a tecnologia variado e está disponivel nesse link = https://ai.invideo.io/watch/6sJf6fv2CZu
 
 ## 🚀 Resultados
 Os resultados demonstraram a capacidade de geração destes modelos de IA, que conseguiram criar um video inteiro pro yooutube com alguns prompts e assistência.
